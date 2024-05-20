@@ -57,7 +57,7 @@ https://github.com/col-mustang/sms_spam_detector
 
     - The conditional returns a message if the text is “ham”. (5 points)
 
-    -T he conditional returns a message if the text is “spam”. (5 points)
+    - The conditional returns a message if the text is “spam”. (5 points)
 
 - Create the Gradio Interface Application (20 points)
 
