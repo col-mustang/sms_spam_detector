@@ -26,7 +26,6 @@ https://github.com/col-mustang/sms_spam_detector
 - Visual Studio Code - The source code editor used for development.
 - GitHub Copilot - AI assistant that helps in writing better code.
 - ChatGPT - AI model for generating documentation and guidance.
-- Perplexity - AI assistant that helps generate and write cleaner code.
 
 ## Features
 - Allows users to input SMS text messages.
